@@ -2,7 +2,7 @@ snowflake-db:
   outputs:
     dev:
       account: yyrutpn-zc57919
-      database: SNOWFLAKE_SAMPLE_DATA
+      database: DBT_TEST
       password: pTfQ54NSVURfWsj
       role: accountadmin
       schema: TPCH_SF1
