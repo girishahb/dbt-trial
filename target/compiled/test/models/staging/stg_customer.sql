@@ -1,1 +1,1 @@
-Select * from snowflake_sample_data.TPCH_SF1.CUSTOMER
+Select * from SNOWFLAKE_SAMPLE_DATA.TPCH_SF1.customer
